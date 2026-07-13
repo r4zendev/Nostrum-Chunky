@@ -32,6 +32,7 @@ Unlike previous builds that relied almost entirely on Ergogen to create the PCB,
 
 ![](Pics/diodes.jpg)
 
+**Update:** a fixed revision with SOD-123 diodes is available under [`Kicad/Nostrum Chunky SOD-123`](Kicad/Nostrum%20Chunky%20SOD-123).
 
 ## Parts
 | Part  | Link |
